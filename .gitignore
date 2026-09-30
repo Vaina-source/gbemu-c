@@ -1,0 +1,10 @@
+# Compiled program
+*.exe
+*.o
+
+# Game ROMs (copyrighted, never upload these)
+*.gb
+*.gbc
+
+# Debug output
+out.txt
